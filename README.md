@@ -4,7 +4,7 @@ This is a simple Hello World program written in Python.
 
 It's purpose is to showcase the use and integration of Visual Studio, Github, and Python.
 
-[Software Demo Video](https://youtu.be/ldFYZ613o3Q)
+[Software Demo Video](https://youtu.be/i06qamTgI_I)
 
 # Development Environment
 
